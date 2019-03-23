@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rock, Scissors, Paper</string>
+    <string name="action_settings">Settings</string>
+</resources>
